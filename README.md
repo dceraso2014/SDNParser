@@ -11,7 +11,10 @@ El objetivo de este proyecto es el de parametrizar la información recibida por 
 - https://msdn.microsoft.com/en-us/library/office/mt404775(v=office.16).aspx - Elementos enviados durante la llamada
 - http://ucken.blogspot.com.ar/2015/07/in-call-qoe-in-skype4b.html - InCallQoE y InCallQoS
 
+### Videos Channel9 SDN
 
+- https://channel9.msdn.com/Events/Ignite/2015/BRK3174 - Real-Time Call Quality Metrics via Software Defined Networking (SDN) on Skype for Business
+- https://channel9.msdn.com/Events/Lync-Conference/Lync-Conference-2014/NETW301-R - Software Defined Networking: Lync and Network Diagnostics
 
 ## Esquema de actualizaciones API
 
